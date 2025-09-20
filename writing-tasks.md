@@ -69,3 +69,25 @@ Answer: The bar graph shows the quantity of stores in shopping centres in a Euro
   - chart -> bar graph
 - Change the description of the time period
   - between 2000 and 2015 -> from 2000 to 2015
+
+>[!IMPORTANT] Dont change the word if not sure about a equivalent synonym.
+
+
+| Graphic Type | Verb | Description |
+|---|---|---|
+| The table | shows | a comparison of |
+| The bar graph | presents | the differences |
+| The line graph | gives | the changes |
+| The pie chart | illustrates | the number of |
+| The process diagram | - | data on |
+| The map | - | the proportion |
+| The map | - | the amount of |
+| The map | - | information on |
+| The map | - | the percentages of |
+
+
+#### Summary of Introduction Writing Task 1
+- Don't spend more than 1-3 mins on the introduction
+- Change the words / grammar / description of the time period
+- Don't describe the x and y axis too much in the intro if possible avoid mentioning
+- Don't use synonyms if not sure about it
