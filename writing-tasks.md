@@ -36,6 +36,36 @@ A good strategy is read Task 2 first, but do Task 1 first
 - Data / Evidence from the graphic
 - Make comparisons of the data
 - No irrelevant or inaccurate information. Report what is given
-- No personal opinions / information based on candidate knowledge. Report what is given
+- No personal opinions, information based on candidate knowledge or speculations. Report what is given
 - More data mentioned the better, however keep to the limit and no misinformation.
 - Don't mechanically report the data.
+
+#### How to write a Task 1 Introduction
+- Use different words / synonyms. Rephrase the given text
+- Use different grammatical structure if possible
+- Change the description of the time period
+- Make it brief. 1 to 2 sentences but cover all of the key points / information
+
+```
+Question: The graph shows the favourite sport of people from the US between 1985 and 2015.
+
+Answer: The line graph gives a comparison of the favourite sport of US citizens from 1985 to 2015.
+```
+- Use different words / synonyms
+  - shows -> gives a comparison 
+  - graph -> line graph
+  - people from the US -> US citizens
+- Change the description of the time period
+  - between 1985 and 2015 -> from 1985 to 2015
+
+```
+Question: The chart below gives information about the number of stores in shopping centres in a European city between 2000 and 2015.
+
+Answer: The bar graph shows the quantity of stores in shopping centres in a European city from 2000 to 2015.
+```
+
+- Use different words / synonyms
+  - gives information -> shows the quantity  
+  - chart -> bar graph
+- Change the description of the time period
+  - between 2000 and 2015 -> from 2000 to 2015
